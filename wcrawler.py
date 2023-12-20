@@ -1,4 +1,9 @@
 '''Web crawler básico'''
+
+##### Copyright (c) 2021, Carlos Mandele K.
+#### Attribution-NonCommercial 4.0 International
+
+
 from urllib.parse import urljoin
 from html.parser import HTMLParser
 from urllib.request import Request, urlopen
