@@ -1,3 +1,4 @@
+'''Web crawler básico'''
 from urllib.parse import urljoin
 from html.parser import HTMLParser
 from urllib.request import Request, urlopen
